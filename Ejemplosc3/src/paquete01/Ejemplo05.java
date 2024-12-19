@@ -15,7 +15,7 @@ public class Ejemplo05 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // Creación de arreglo bidimensionales
+        // Creación de arreglo bidimensionales   
         
         int[][] arreglo1 = {{10, 41, 40}, {1, 2, 3}};
         /*
